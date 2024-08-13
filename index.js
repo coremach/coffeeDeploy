@@ -14,7 +14,7 @@ app.get('/login',(req,res)=>{
     res.send('<h1> please login to coffee and code </h1>')
 })
 app.get('/youtube',(req,res)=>{
-    res.send('<h3> Ashok youtube channel</h3>')
+    res.send('<h3> Ashok Machcore channel</h3>')
 })
 
 app.listen(port,()=>{
